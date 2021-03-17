@@ -1,0 +1,1 @@
+export const ERROR_ICON_URL = 'https://img.icons8.com/fluent/344/error.png';
